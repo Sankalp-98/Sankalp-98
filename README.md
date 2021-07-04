@@ -8,7 +8,6 @@ A proactive and fast learning Data Science Enthusiast. Have knowledge of Python 
 - 🔭 I’m currently working on Data Analysis Project.
 - 🌱 I’m currently brushing up my concepts of SQL, Statistics.
 - 👯 I’m looking to collaborate on any **Data Analysis** project.
-- 🤔 I’m looking for help with **Deep Learning**.
 - 💬 Ask me about ML, SQL, Tableau.
 - 📫 How to reach me: Mail me on [sankalpjain48@gmail.com](mailto:sankalpjain48@gmail.com ). You can also check out my [linkedin]( https://www.linkedin.com/in/sankalpjain98) profile.
 
