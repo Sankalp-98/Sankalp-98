@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 I am Sankalp Jain.
-A proactive and fast learning Data Science Enthusiast. Have knowledge of Python and its libraries. Have excellent communication skills and presentation skills. Seeking an opportunity to work as a dynamic data analyst utilizing analytical & methodical skills to help the company achieve business goals.
+Versatile individual with experience collecting, transforming, and organising data for analysis to help make informed decisions. Excellent understanding and proficiency of platforms for effective data analysis, including spreadsheets, Tableau, Python & R. Strong communication, organizational and analytical skills. Recently completed the Google Data Analytics Certificate – a rigorous, hands-on program that covers the entire scope of the data analysis process.
 
 
 - 🔭 I’m currently working on Data Analysis Project.
